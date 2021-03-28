@@ -1,0 +1,22 @@
+{
+  "name": "punk-api-beerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayak-singh5302/Punk-Api-BeerApp.git"
+  },
+  "author": "Vinayak Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayak-singh5302/Punk-Api-BeerApp/issues"
+  },
+  "homepage": "https://github.com/vinayak-singh5302/Punk-Api-BeerApp#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
